@@ -66,7 +66,9 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 3. [Check Accessibility](http://achecker.ca/checker/index.php) — тест на соотвествие нескольким стандартам доступности
 
-4. [Online Tool for Colour Contrast](http://www.accesskeys.org/tools/color-contrast.html) — тест на цветовой контраст
+4. [Color Contrast Checker](http://webaim.org/resources/contrastchecker/) — тестирование контрастности текста на цветовом фоне
+
+5. [Online Tool for Colour Contrast](http://www.accesskeys.org/tools/color-contrast.html) — тест на цветовой контраст
 
 ***
 
@@ -74,9 +76,9 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 ### Пользовательский поиск для сайта (CSE)
 
-1. [Google CSE](https://www.google.com/webmasters/markup-helper/?hl=ru) — пользовательский поиск для сайта от Google
+1. [Яндекс.Поиск для сайта](https://site.yandex.ru/) — пользовательский поиск для сайта от Яндекса
 
-2. [Яндекс.Поиск для сайта](https://site.yandex.ru/) — пользовательский поиск для сайта от Яндекса
+2. [Google CSE](https://www.google.com/webmasters/markup-helper/?hl=ru) — пользовательский поиск для сайта от Google
 
 ***
 
@@ -90,11 +92,7 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 3. [Search Google Trends](http://www.google.com/trends/explore#geo=RU&cmpt=q) — анализ поисковых запросов
 
-4. [Яндекс подбор слов](https://wordstat.yandex.ru/)
-
-5. [Статистика запросов Майл.ру](http://webmaster.mail.ru/querystat)
-
-5. [KeywordShitter.com/](http://keywordshitter.com/) — только английские
+4. [Статистика запросов Майл.ру](http://webmaster.mail.ru/querystat)
 
 ***
 
@@ -102,11 +100,9 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 ### Тестирование robots.txt
 
-1. [Инструмент проверки файла robots.txt — Google](https://www.google.com/webmasters/tools/robots-testing-tool?hl=ru)
+1. [Анализ robots.txt — Яндекс](https://webmaster.yandex.ru/robots.xml)
 
-2. [Анализ robots.txt — Яндекс](https://webmaster.yandex.ru/robots.xml)
-
-3. [Robots.txt Checker](http://tool.motoricerca.info/robots-checker.phtml)
+2. [Инструмент проверки файла robots.txt — Google](https://www.google.com/webmasters/tools/robots-testing-tool?hl=ru)
 
 ### Тестирование настроек сервера
 
@@ -114,9 +110,9 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 ### Тестирование семантической разметки
 
-1. [Google Testing Tool Structured Data](https://developers.google.com/structured-data/testing-tool/?hl=ru) — тестирование структурированной (семантической) разметки для Google
+1. [Валидатор микроразметки Яндекса](https://webmaster.yandex.ru/microtest.xml) — тестирование структурированной (семантической) разметки для Яндекса
 
-2. [Валидатор микроразметки Яндекса](https://webmaster.yandex.ru/microtest.xml) — тестирование структурированной (семантической) разметки для Яндекса
+2. [Google Testing Tool Structured Data](https://developers.google.com/structured-data/testing-tool/?hl=ru) — тестирование структурированной (семантической) разметки для Google
 
 3. [Debugger - Facebook Developers](https://developers.facebook.com/ftools/fdebug/) — проверка метаданных страниц для Facebook
 
@@ -138,9 +134,9 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 ##№ Добавление сайтов в поисковые системы
 
-1. [Добавление сайта в Google](https://www.google.com/webmasters/tools/submit-url)
+1. [Добавление сайта в Яндекс](https://webmaster.yandex.ru/site/?wizard=add.site)
 
-2. [Добавление сайта в Яндекс](https://webmaster.yandex.ru/site/?wizard=add.site)
+2. [Добавление сайта в Google](https://www.google.com/webmasters/tools/submit-url)
 
 3. [Добавление сайта в Майл.ру](http://webmaster.mail.ru/user/domains)
 
@@ -152,9 +148,9 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 ### Добавление RSS блогов в поисковые системы
 
-1. [Поиск по блогам Google](http://blogsearch.google.com/ping)
+1. [Яндекс блоги](https://blogs.yandex.ru/add.xml)
 
-2. [Яндекс блоги](https://blogs.yandex.ru/add.xml)
+2. [Поиск по блогам Google](http://blogsearch.google.com/ping)
 
 ***
 
@@ -178,14 +174,23 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 1. [„Типограф“](http://typograf.ru/)
 
-2. [„Типограф Муравьёва“](http://mdash.ru/demo.html)
+2. [Типограф Муравьёва](http://mdash.ru/demo.html)
 
 ***
 
 ## Графика
 
 ### Конверторы
+
 1. [http://picascii.com/](http://picascii.com/) — конвертор изображений в ASCII графику
+
+## Внешний вид
+
+1. [Fonts4Web](http://fonts4web.ru/) — русские шрифты в комплектации TTF + WOFF + EOT
+
+2. [Favicon & App Icon Generator](http://www.favicon-generator.org/) — генератор favicon, иконок для мобильных и плиток Windows
+
+3. [CSS Sprite Generator](http://spritegen.website-performance.org/) — генератор спрайтов
 
 
 
