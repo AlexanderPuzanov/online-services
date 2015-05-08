@@ -90,9 +90,7 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 2. [Планировщик ключевых слов Google AdWords](https://adwords.google.com/KeywordPlanner)
 
-3. [Search Google Trends](http://www.google.com/trends/explore#geo=RU&cmpt=q) — анализ поисковых запросов
-
-4. [Статистика запросов Майл.ру](http://webmaster.mail.ru/querystat)
+3. [Статистика запросов Майл.ру](http://webmaster.mail.ru/querystat)
 
 ***
 
@@ -176,6 +174,14 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 # Контент
 
+## Анализ эффективности тем
+
+1. [Search Google Trends](http://www.google.com/trends/explore) — анализ поисковых запросов
+
+2. [Buzzsumo](http://buzzsumo.com/) — количество расшариваний в соц сетях
+
+***
+
 ## Текст
 
 ### Орфография
@@ -198,6 +204,8 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 1. [http://picascii.com/](http://picascii.com/) — конвертор изображений в ASCII графику
 
+***
+
 ## Внешний вид
 
 ### Шрифты
@@ -217,6 +225,44 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 ### Графика
 
 1. [CSS Sprite Generator](http://spritegen.website-performance.org/) — генератор спрайтов
+
+***
+
+# Социальные медиа
+
+## Тренды
+
+1. [Популярное на Google Plus](https://plus.google.com/explore)
+
+2. [Swayy](http://www.swayy.co/) — контент для соцсетей
+
+***
+
+# Облачное хранилище
+
+1. [Hive](https://www.hive.im/) — безлимитный бесплатный план
+
+2. [Яндекс Диск](https://disk.yandex.ru/)
+
+3. [Гугл Диск](https://drive.google.com/)
+
+4. [Облако mail.ru](https://cloud.mail.ru/)
+
+***
+
+# Бизнес
+
+## Cоздание счета
+
+1. [invoiceto.me](http://invoiceto.me/)
+
+2. [free-invoice-generator.com](https://www.free-invoice-generator.com/) — продвинутый
+
+3. [http://slimvoice.co/](http://slimvoice.co/) — минимальный
+
+
+
+
 
 
 
