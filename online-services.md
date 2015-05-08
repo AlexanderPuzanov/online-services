@@ -130,6 +130,14 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 ***
 
+## Аналитика
+
+1. [Яндекс Метрика](https://metrika.yandex.ru/)
+
+2. [Google Analytics](https://www.google.ru/analytics/)
+
+***
+
 ## Поисковые системы
 
 ##№ Добавление сайтов в поисковые системы
@@ -151,6 +159,12 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 1. [Яндекс блоги](https://blogs.yandex.ru/add.xml)
 
 2. [Поиск по блогам Google](http://blogsearch.google.com/ping)
+
+## Контентная реклама
+
+1. [Яндекс Директ](https://direct.yandex.ru/)
+
+2. [Google AdWords](https://www.google.ru/adwords/)
 
 ***
 
@@ -186,11 +200,23 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 ## Внешний вид
 
+### Шрифты
+
 1. [Fonts4Web](http://fonts4web.ru/) — русские шрифты в комплектации TTF + WOFF + EOT
 
-2. [Favicon & App Icon Generator](http://www.favicon-generator.org/) — генератор favicon, иконок для мобильных и плиток Windows
+### Значки
 
-3. [CSS Sprite Generator](http://spritegen.website-performance.org/) — генератор спрайтов
+1. [Favicon & App Icon Generator](http://www.favicon-generator.org/) — генератор favicon, иконок для мобильных и плиток Windows
+
+2. [Fontello](http://fontello.com/) — генератор иконочных шрифтов
+
+3. [IcoMoon](https://icomoon.io/app/#/select) — генератор иконочных шрифтов, SVG, PNG
+
+4. [Icons8](https://icons8.com/responsive-icons) — генератор адаптивных значков из SVG (есть 50 готовых)
+
+### Графика
+
+1. [CSS Sprite Generator](http://spritegen.website-performance.org/) — генератор спрайтов
 
 
 
