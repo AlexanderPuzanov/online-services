@@ -50,11 +50,13 @@
 1. [Unicorn - Совмещенный валидатор W3C](http://validator.w3.org/unicorn/)
 — тестрование (X)HTML, CSS, Mobile OK, RSS/Atom, HTTP Заголовки, i18n 
 
-### Тестирование скорости загрузки
+### Тестирование производительности сайта
 
 1. [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=ru) — тестирование скорости загрузки страниц и удоства для пользователей от Google
 
 2. [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/) — тест скорости загрузки сайта
+
+3. [GTmetrix](http://gtmetrix.com/) — анализ производительности сайта
 
 ### Тестирование доступности сайта для людей с ограничениями
 
@@ -92,6 +94,9 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 3. [Статистика запросов Майл.ру](http://webmaster.mail.ru/querystat)
 
+4. [SERPs](https://serps.com/tools/rank_checker) — анализ ключевых слов в поисковой выдаче Google и Yohoo
+
+5. [Keyword Tool](http://keywordtool.io/ru/google) — парсер поисковых подсказак Google, YouTube, Bing
 ***
 
 ## Тестирование
@@ -120,6 +125,8 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 1. [Link Checker](http://validator.w3.org/checklink) — поиск «битых» ссылок на странице от W3C
 
+2. [Find Broken Links, Redirects & Site Crawl Tool](http://www.internetmarketingninjas.com/seo-tools/google-sitemap-generator/) — поиск «битых» ссылок и редеректов на сайте
+
 ***
 
 ## Cемантическая разметка
@@ -138,7 +145,7 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 ## Поисковые системы
 
-##№ Добавление сайтов в поисковые системы
+### Добавление сайтов в поисковые системы
 
 1. [Добавление сайта в Яндекс](https://webmaster.yandex.ru/site/?wizard=add.site)
 
@@ -152,11 +159,46 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 6. [Добавление сайта в Meta (Украина)](http://web.meta.ua/?action=add)
 
+
 ### Добавление RSS блогов в поисковые системы
 
 1. [Яндекс блоги](https://blogs.yandex.ru/add.xml)
 
 2. [Поиск по блогам Google](http://blogsearch.google.com/ping)
+
+***
+
+## Анализ обратных ссылок
+
+1. [Open Site Explorer](https://moz.com/researchtools/ose)
+
+2. [Ahrefs Site Explorer](https://ru.ahrefs.com/site-explorer)
+
+***
+
+## SEO анализ сайта
+
+1. [SEO Site Checkup](http://seositecheckup.com/tool) — комплексный аудит сайта
+
+2. [SimilarWeb](http://www.similarweb.com/)
+
+3. [browseo](http://www.browseo.net/) — вид сайта с точки зрения ПС
+
+4. [woorank](https://www.woorank.com/)
+
+***
+
+## Анализ поисковой выдачи
+
+
+
+***
+
+## Рейтинги сайтов
+
+1. [Alexa](http://www.alexa.com/)
+
+***
 
 ## Контентная реклама
 
@@ -172,6 +214,12 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 ***
 
+# Комплексный анализ сайта
+
+1. [nibbler](http://nibbler.silktide.com/) — полный анализ
+
+***
+
 # Контент
 
 ## Анализ эффективности тем
@@ -179,6 +227,8 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 1. [Search Google Trends](http://www.google.com/trends/explore) — анализ поисковых запросов
 
 2. [Buzzsumo](http://buzzsumo.com/) — количество расшариваний в соц сетях
+
+3. [Ahrefs Content Explorer](https://ru.ahrefs.com/content-explorer) — количество расшариваний в соц сетях
 
 ***
 
@@ -197,6 +247,10 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 2. [Типограф Муравьёва](http://mdash.ru/demo.html)
 
 ***
+
+### Поиск плагиата
+
+2. [Copyscape](http://www.copyscape.com/)
 
 ## Графика
 
