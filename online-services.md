@@ -254,6 +254,23 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 ## Графика
 
+### Созданание графики
+
+1. [Recite](http://www.recitethis.com/) — графические цитаты
+
+2. [PlaceIt](https://placeit.net/) — мокапы
+
+3. [meme generator](http://memegenerator.net/) — генератор мемов
+
+4. [easel](http://www.easel.ly/) — создание инфографики
+
+### Оптимизация изображений
+
+1. [Smart JPEG compression](https://tinyjpg.com/) — сжатие JPEG
+
+2. [Shrink PNG files](https://tinypng.com/) — сжатие PNG
+
+
 ### Конверторы
 
 1. [http://picascii.com/](http://picascii.com/) — конвертор изображений в ASCII графику
