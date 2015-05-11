@@ -72,6 +72,10 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 5. [Online Tool for Colour Contrast](http://www.accesskeys.org/tools/color-contrast.html) — тест на цветовой контраст
 
+### Тестирование служебных файлов
+
+1. [Cache Manifest Validator](http://manifest-validator.com/) — тестирование AppCache манифест файлов
+
 ***
 
 ## Компоненты для сайтов
@@ -214,7 +218,7 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 ***
 
-# Комплексный анализ сайта
+## Комплексный анализ сайта
 
 1. [nibbler](http://nibbler.silktide.com/) — полный анализ
 
@@ -300,6 +304,10 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 ***
 
 # Социальные медиа
+
+## Тестирование
+
+1. [Twitter Card validator](https://cards-dev.twitter.com/validator)
 
 ## Тренды
 
