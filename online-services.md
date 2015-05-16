@@ -238,11 +238,13 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 ## Текст
 
-### Орфография
+### Грамотность
 
 1. [ОРФО Online](http://online.orfo.ru/)
 
 2. [Проверка орфографии Яндекса](https://webmaster.yandex.ru/spellcheck.xml) — проверяет орфографию на странице сайта
+
+3. [Главред](http://glvrd.ru/) — Помогает очистить текст от словесного мусора, проверяет на соответствие информационному стилю. 
 
 ### Типографы
 
@@ -338,6 +340,12 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 2. [free-invoice-generator.com](https://www.free-invoice-generator.com/) — продвинутый
 
 3. [http://slimvoice.co/](http://slimvoice.co/) — минимальный
+
+***
+
+# Образование
+
+1. [Lynda.com Subtitle Generator](http://www.lyndasub.ir/)  — получение субтитров для  курсов Lynda.com
 
 
 
