@@ -11,16 +11,11 @@
 ### Тестирование верстки страницы
 
 1. [The W3C Markup Validation Service](http://validator.w3.org/) — валидатор разметки HTML от консорциума W3C
-
 2. [Nu Html Checker](http://validator.w3.org/nu/) — эксперементальный валидатор разметки (более глубокая проверка) HTML от консорциума W3C
-
-2. [Living Validator](https://validator.nu/) — «живой» валидатор HTML от WHATWG
-
-3. [CSS Validation Service](http://jigsaw.w3.org/css-validator/) — проверка каскадных таблиц стилей (CSS) и документов (X)HTML с таблицами стилей от консорциума W3C
-
-4. [CSE HTML Validator Pro](http://www.onlinewebcheck.com/check.php) — HTML, XHTML, CSS, JSON, robots.txt и файлов монифестов
-
-5. [Инструмент проверки разметки в HTML письмах](https://www.google.com/webmasters/markup-tester/?hl=ru) от Google
+3. [Living Validator](https://validator.nu/) — «живой» валидатор HTML от WHATWG
+4. [CSS Validation Service](http://jigsaw.w3.org/css-validator/) — проверка каскадных таблиц стилей (CSS) и документов (X)HTML с таблицами стилей от консорциума W3C
+5. [CSE HTML Validator Pro](http://www.onlinewebcheck.com/check.php) — HTML, XHTML, CSS, JSON, robots.txt и файлов монифестов
+6. [Инструмент проверки разметки в HTML письмах](https://www.google.com/webmasters/markup-tester/?hl=ru) от Google
 
 ### Тестирование работы с разными браузерами
 
@@ -317,6 +312,15 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 2. [Swayy](http://www.swayy.co/) — контент для соцсетей
 
+## Контент
+1. item
+2. item
+3. item
+
+
+
+
+
 ***
 
 # Облачное хранилище
@@ -346,12 +350,3 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 # Образование
 
 1. [Lynda.com Subtitle Generator](http://www.lyndasub.ir/)  — получение субтитров для  курсов Lynda.com
-
-
-
-
-
-
-
-
-
