@@ -228,8 +228,11 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 ## Контент
 1. [Spruce](http://www.tryspruce.com/) — подготовка изображений для Twitter
-2. [SocialRank](https://www.socialrank.com/) — планировщик публикаций для Twitter и Instagram.
-3. [TakeOff](http://gettakeoff.com/) — планировщик публикаций для Instagram.
+
+## Размещение контента
+2. [SocialRank](https://www.socialrank.com/) — планировщик публикаций для Twitter и Instagram
+3. [TakeOff](http://gettakeoff.com/) — планировщик публикаций для Instagram
+4. [bitly](https://bitly.com/) — сокращение ссылок и аналитика
 
 ## Аналитика
 1. [SharedCount](http://www.sharedcount.com/dashboard.php) — анализ количества «социальных сигналов»
@@ -254,6 +257,9 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 1. [invoiceto.me](http://invoiceto.me/)
 2. [free-invoice-generator.com](https://www.free-invoice-generator.com/) — продвинутый
 3. [http://slimvoice.co/](http://slimvoice.co/) — минимальный
+
+## Онлайн формы
+2. [Typeform](http://www.typeform.com/) — создание онлайн форм
 
 ***
 
