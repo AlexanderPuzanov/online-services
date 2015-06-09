@@ -75,6 +75,7 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 ### Хостинг
 1. [Heroku](https://www.heroku.com/) — PaaS хостинг приложений (1 приложение бесплатно).
+2. [OpenShift](https://www.openshift.com/) — PaaS хостинг приложений (3 приложения бесплатно).
 
 ### Среда разработки
 1. [Cloud9 IDE](https://c9.io/) — полная среда разработки прямо в браузере.
@@ -83,7 +84,7 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 1. [Travis CI](https://travis-ci.org/) — бесплатно для открытых проектов.
 
 ### Continuous Integration
-1. [Cloudflare](Cloudflare) — CDN и защита от DDOS.
+1. [Cloudflare](https://www.cloudflare.com/) — CDN и защита от DDOS.
 
 
 ***
