@@ -73,10 +73,13 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 2. [CodePen](http://codepen.io/)
 3. [JSBin](http://jsbin.com/)
 4. [CSSDeck](http://cssdeck.com/)
+5. [Plunker](http://plnkr.co/)
 
-### Хостинг
+### Хостинг приложений
 1. [Heroku](https://www.heroku.com/) — PaaS хостинг приложений (1 приложение бесплатно).
 2. [OpenShift](https://www.openshift.com/) — PaaS хостинг приложений (3 приложения бесплатно).
+2. [Parse](https://parse.com/) — PaaS хостинг приложений (1 приложение бесплатно).
+
 
 ### Среда разработки
 1. [Cloud9 IDE](https://c9.io/) — полная среда разработки прямо в браузере.
