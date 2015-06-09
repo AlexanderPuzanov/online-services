@@ -39,6 +39,7 @@
 1. [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=ru) — тестирование скорости загрузки страниц и удоства для пользователей от Google
 2. [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/) — тест скорости загрузки сайта
 3. [GTmetrix](http://gtmetrix.com/) — анализ производительности сайта
+4. [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/) — анализ производительности сайта
 
 ### Тестирование доступности сайта для людей с ограничениями
 WCAG — Web Content Accessibility Guidelines (Руководство по доступу к Сетевому контенту).
@@ -58,6 +59,32 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 ### Пользовательский поиск для сайта (CSE)
 1. [Яндекс.Поиск для сайта](https://site.yandex.ru/) — пользовательский поиск для сайта от Яндекса
 2. [Google CSE](https://www.google.com/webmasters/markup-helper/?hl=ru) — пользовательский поиск для сайта от Google
+
+***
+
+## Разработка
+
+### Система управления версиями
+1. [GitHub](https://github.com/)
+2. [Bitbucket](https://bitbucket.org/) — бесплатные закрытые репозитории
+
+### «Песочницы»
+1. [JSFiddle](http://jsfiddle.net/)
+2. [CodePen](http://codepen.io/)
+3. [JSBin](http://jsbin.com/)
+
+### Хостинг
+1. [Heroku](https://www.heroku.com/) — PaaS хостинг приложений (1 приложение бесплатно).
+
+### Среда разработки
+1. [Cloud9 IDE](https://c9.io/) — полная среда разработки прямо в браузере.
+
+### Continuous Integration
+1. [Travis CI](https://travis-ci.org/) — бесплатно для открытых проектов.
+
+### Continuous Integration
+1. [Cloudflare](Cloudflare) — CDN и защита от DDOS.
+
 
 ***
 
@@ -130,6 +157,7 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 2. [SimilarWeb](http://www.similarweb.com/)
 3. [browseo](http://www.browseo.net/) — вид сайта с точки зрения ПС
 4. [woorank](https://www.woorank.com/)
+1. [Семантический анализ текста онлайн](http://advego.ru/text/seo/)
 
 ***
 
