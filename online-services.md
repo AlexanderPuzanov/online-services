@@ -72,6 +72,7 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 1. [JSFiddle](http://jsfiddle.net/)
 2. [CodePen](http://codepen.io/)
 3. [JSBin](http://jsbin.com/)
+4. [CSSDeck](http://cssdeck.com/)
 
 ### Хостинг
 1. [Heroku](https://www.heroku.com/) — PaaS хостинг приложений (1 приложение бесплатно).
@@ -265,8 +266,13 @@ WCAG — Web Content Accessibility Guidelines (Руководство по до
 
 ## Аналитика
 1. [SharedCount](http://www.sharedcount.com/dashboard.php) — анализ количества «социальных сигналов»
-2. item
-3. item
+
+***
+
+# Организация работы
+
+## Обсуждение идей
+1. [Trello](https://trello.com/) — Конбан.
 
 
 
